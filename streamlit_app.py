@@ -80,7 +80,7 @@ if streamlit.button('Get fruit load list'):
 
 #streamlit.dataframe(my_data_rows)
 
-streamlit.write('Thanks for adding', add_my_fruit)
+#streamlit.write('Thanks for adding', add_my_fruit)
 
 #streamlit.stop()
 #insertin new fruit name to table
